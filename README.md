@@ -1,11 +1,11 @@
-**<p align="center">[My Feedly OPML](https://github.com/superleeyom/my-feed-OPML)</p>**
+**<p align="center">[My Feedly OPML](https://github.com/Sailfishc/my-feed-OPML)</p>**
 ====
 
 ## 前言
 
-**分享我订阅的一些 Blog 和 Newsletter，每天自动同步我 Feedly 上的订阅源，✅ 代表能正常订阅，❌ 代表暂无法订阅（对于无法订阅的 feed，支持 Telegram Bot、Email、Server酱等推送工具提醒更新），**[opml 下载地址](https://github.com/superleeyom/my-feed-OPML/releases/download/latest/feed.opml)
+**分享我订阅的一些 Blog 和 Newsletter，每天自动同步我 Feedly 上的订阅源，✅ 代表能正常订阅，❌ 代表暂无法订阅（对于无法订阅的 feed，支持 Telegram Bot、Email、Server酱等推送工具提醒更新），**[opml 下载地址](https://github.com/Sailfishc/my-feed-OPML/releases/download/latest/feed.opml)
 
-**最新更新时间（北京时间）：2022-04-04 09:56:32**
+**最新更新时间（北京时间）：2022-04-04 23:20:03**
 
 ## 如何使用
 
@@ -31,56 +31,116 @@
 - 然后 `Actions --> Workflows --> FeedlyOpmlImportApplication --> Run workflow`，手动触发任务
 
 
-Newsletter
-----------
-- [✅ 增长黑客通讯周刊](https://us6.campaign-archive.com/feed?u=e4582460499f4aadae1a90e2b&id=d2c14f8a94)：[feed](https://us6.campaign-archive.com/feed?u=e4582460499f4aadae1a90e2b&id=d2c14f8a94)
-- [✅ iOS摸鱼周报](https://zhangferry.com/)：[feed](https://zhangferry.com/atom.xml)
-- [✅ 前端食堂技术周刊](https://github.com/Geekhyt/weekly/issues)：[feed](https://rsshub.app/github/issue/Geekhyt/weekly)
-- [✅ 前端精读周刊](https://github.com/ascoders/weekly/releases)：[feed](https://github.com/ascoders/weekly/releases.atom)
-- [✅ 混沌周刊](https://weekly.love)：[feed](https://weekly.love/feed/atom/)
-- [✅ 13的Apple開發者週報](https://ethanhuang13.substack.com)：[feed](https://ethanhuang13.substack.com/feed/)
-- [✅ HelloGitHub月刊](https://hellogithub.com)：[feed](https://hellogithub.com/rss)
-- [✅ 编程狂人周刊](https://www.tuicool.com/mags)：[feed](http://www.tuicool.com/mags/rss_programming.rss)
-- [✅ 阿里云前端技术周刊](https://github.com/aliyunfe/weekly/releases)：[feed](https://github.com/aliyunfe/weekly/releases.atom)
-- [✅ 好工具周刊](https://discuss-cn.bestxtools.com/)：[feed](https://discuss-cn.bestxtools.com/atom/t/weekly/discussions)
-- [✅ GeekPlux Lab](https://geekplux.com)：[feed](https://geekplux.com/feed.xml)
-- [✅ Newlearnerの自留地](https://t.me/s/NewlearnerChannel)：[feed](https://rsshub.app/telegram/channel/NewlearnerChannel)
-- [✅ 野生架构师周刊](http://weekly.codelc.com/)：[feed](http://weekly.codelc.com/?format=rss)
-- [✅ 少数派](https://sspai.com)：[feed](https://sspai.com/feed)
-- [✅ DecoHack周刊](https://www.decohack.com)：[feed](https://www.decohack.com/feed)
-- [✅ 产品鸭](https://produck.zhubai.love/)：[feed](https://rsshub.app/zhubai/produck)
-- [✅ 老司机iOS周报](https://github.com/SwiftOldDriver/iOS-Weekly/releases)：[feed](https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom)
-- [✅ Things About Design](https://design.zhubai.love/)：[feed](https://rsshub.app/zhubai/design)
-- [✅ Go语言爱好者周刊](https://studygolang.com/go/weekly)：[feed](https://rsshub.app/go-weekly)
-- [✅ 独立开发变现周刊](https://www.ezindie.com/weekly)：[feed](https://www.ezindie.com/feed/rss.xml)
-- [✅ 奇舞周刊](https://weekly.75.team)：[feed](https://weekly.75.team/rss)
+Programming
+-----------
+- [✅ Javarevisited](http://javarevisited.blogspot.com/)：[feed](http://javarevisited.blogspot.com/feeds/posts/default)
+- [✅ Stack Overflow Blog](https://stackoverflow.blog)：[feed](http://blog.stackoverflow.com/feed/)
+- [✅ Scott Hanselman's Blog](https://www.hanselman.com/blog/)：[feed](http://feeds.feedburner.com/ScottHanselman)
+- [✅ High Scalability](http://highscalability.com/blog/)：[feed](http://feeds.feedburner.com/HighScalability)
+- [✅ Engineering at Meta](https://engineering.fb.com)：[feed](https://code.facebook.com/posts/rss)
+- [✅ You’ve Been Haacked](http://haacked.com/)：[feed](http://feeds.haacked.com/haacked/)
+- [❌ Google Developers ](http://developers.googleblog.com/)：[feed](http://code.google.com/feeds/updates.xml)
+- [✅ Netflix TechBlog](https://netflixtechblog.com?source=rss----2615bd06b42e---4)：[feed](http://techblog.netflix.com/feeds/posts/default)
+- [✅ Coding Horror](https://blog.codinghorror.com/)：[feed](http://feeds.feedburner.com/codinghorror/)
+- [✅ Code as Craft](https://codeascraft.com)：[feed](http://codeascraft.etsy.com/feed/)
+- [✅ LinkedIn Engineering](https://engineering.linkedin.com/blog.rss.html)：[feed](https://engineering.linkedin.com/blog.rss)
+- [✅ The Clean Code Blog](http://blog.cleancoder.com/)：[feed](http://blog.cleancoder.com/atom.xml)
+- [✅ The IntelliJ IDEA Blog : The Capable & Ergonomic IDE for JVM languages by JetBrains | The JetBrains Blog](https://blog.jetbrains.com)：[feed](http://blogs.jetbrains.com/idea/feed/)
+- [❌ CodeBetter.Com Posts](http://codebetter.com)：[feed](http://codebetter.com/blogs/MainFeed.aspx)
+- [✅ AWS Database Blog](https://aws.amazon.com/blogs/database/)：[feed](https://aws.amazon.com/blogs/database/feed/)
+- [✅ Engineering – The GitHub Blog](https://github.blog)：[feed](http://githubengineering.com/atom.xml)
+- [✅ The Go Blog](http://blog.golang.org/)：[feed](http://blog.golang.org/feeds/posts/default)
 
-Blog
+Tech
 ----
-- [✅ iPotato](https://ipotato.me)：[feed](http://ipotato.me/feed)
-- [✅ Eason Yang's Blog](https://easonyang.com/)：[feed](https://easonyang.com/atom.xml)
-- [✅ 阮一峰的网络日志](http://www.ruanyifeng.com/blog/)：[feed](http://feeds.feedburner.com/ruanyifeng)
-- [✅ 王登科的博客](https://greatdk.com)：[feed](https://greatdk.com/feed)
-- [✅ forecho's Blog](https://blog.forecho.com/)：[feed](http://blog.forecho.com/atom.xml)
-- [✅ Limboy](https://limboy.me)：[feed](https://limboy.me/index.xml)
-- [✅ Leeyom's Blog](https://github.com/superleeyom/blog)：[feed](https://raw.githubusercontent.com/superleeyom/blog/master/feed.xml)
-- [✅ 唐巧的博客](https://blog.devtang.com/)：[feed](http://blog.devtang.com/atom.xml)
-- [✅ 马大伟](https://www.bmpi.dev/)：[feed](https://www.bmpi.dev/index.xml)
-- [✅ Shyrism](https://shyrz.me/)：[feed](https://shyrz.me/rss/)
-- [✅ crossoverJie's Blog](http://crossoverjie.top/)：[feed](https://crossoverjie.top/atom.xml)
-- [✅ 程序员的喵](http://catcoding.me/)：[feed](https://catcoding.me/atom.xml)
-- [✅ 美团技术团队](https://tech.meituan.com/feed/)：[feed](http://tech.meituan.com/atom.xml)
-- [✅ 代码家](https://daimajia.com)：[feed](https://daimajia.com/feed)
-- [✅ OneV's Den](https://onevcat.com)：[feed](http://www.onevcat.com/rss/)
-- [✅ yihong0618](https://github.com/yihong0618/gitblog)：[feed](https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml)
-- [✅ codedump的网络日志](https://www.codedump.info/)：[feed](https://www.codedump.info/index.xml)
-- [✅ bang’s blog](http://blog.cnbang.net)：[feed](http://feeds.feedburner.com/webbang)
-- [✅ DIYgod](https://diygod.me/)：[feed](https://diygod.me/atom.xml)
-- [✅ hayami's blog](https://hayami-blog.typlog.io/)：[feed](https://hayami-blog.typlog.io/feed.xml)
-- [✅ 云风的BLOG](https://blog.codingnow.com/)：[feed](http://blog.codingnow.com/atom.xml)
-- [✅ meditic的博客](https://meditic.com)：[feed](https://meditic.com/feed)
-- [✅ 左耳朵耗子](https://coolshell.cn)：[feed](http://coolshell.cn/feed)
-- [✅ 龙爪槐守望者](http://www.ftium4.com/)：[feed](http://www.ftium4.com/rss.xml)
-- [✅ TualatriX](http://imtx.me/)：[feed](http://imtx.me/feed/latest/)
-- [✅ Randy's Blog](https://lutaonan.com/)：[feed](https://lutaonan.com/rss.xml)
+- [✅ Praxis](https://medium.com/praxis-blog?source=rss----43a173dea401---4)：[feed](https://medium.com/feed/forte-labs)
+- [✅ 王垠的博客 - 当然我在扯淡](https://www.yinwang.org)：[feed](https://rsshub.app/blogs/wangyin)
+- [✅ Martin Fowler](https://martinfowler.com)：[feed](http://martinfowler.com/bliki/bliki.atom)
+- [✅ null program](https://nullprogram.com)：[feed](http://nullprogram.com/feed/)
+- [✅ Eli Bendersky's website](https://eli.thegreenplace.net/)：[feed](http://eli.thegreenplace.net/feed/)
+- [✅ Marek's idea of the day](https://idea.popcount.org)：[feed](https://idea.popcount.org/rss.xml)
+- [✅ Google Developers](https://medium.com/google-developers?source=rss----2e5ce7f173a5---4)：[feed](https://medium.com/feed/google-developers)
+- [✅ AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)：[feed](http://www.awsarchitectureblog.com/atom.xml)
+- [✅ Accidentally Quadratic](https://accidentallyquadratic.tumblr.com/)：[feed](https://accidentallyquadratic.tumblr.com/rss)
+- [✅ Uber Engineering Blog](https://eng.uber.com)：[feed](https://eng.uber.com/feed/)
+- [✅ fuzzy notepad](https://eev.ee/)：[feed](http://me.veekun.com/atom.xml)
+- [✅ 卡瓦邦噶！](https://www.kawabangga.com)：[feed](http://www.kawabangga.com/feed)
+- [❌ Kotlin Expertise Blog](https://kotlinexpertise.com)：[feed](https://blog.simon-wirtz.de/feed/)
+- [✅ AWS News Blog](https://aws.amazon.com/blogs/aws/)：[feed](http://aws.typepad.com/aws/atom.xml)
+- [✅ Coding Horror](https://blog.codinghorror.com/)：[feed](https://blog.codinghorror.com/rss/)
+- [✅ Superorganizers](https://superorganizers.every.to)：[feed](https://superorganizers.substack.com/feed/)
+- [✅ Philipp Hauer's Blog](https://phauer.com)：[feed](http://blog.philipphauer.de/feed/)
+- [✅ Dropbox Tech Blog](https://dropboxtechblog.wordpress.com)：[feed](https://tech.dropbox.com/feed/)
+- [✅ Thoughtworks Technology Podcast](https://www.thoughtworks.com/podcasts)：[feed](http://feeds.soundcloud.com/users/soundcloud:users:94605026/sounds.rss)
+- [✅ Reimu's blog](https://blog.k8s.li/)：[feed](https://blog.502.li/feed)
+- [✅ Comments for Joel on Software](https://www.joelonsoftware.com)：[feed](https://www.joelonsoftware.com/comments/feed/)
+- [✅ Martin Fowler](https://martinfowler.com)：[feed](https://martinfowler.com/feed.atom)
+- [✅ programming is terrible](https://programmingisterrible.com/)：[feed](https://programmingisterrible.com/rss)
+- [✅ Evan Jones - Software Engineer | Computer Scientist](https://www.evanjones.ca/)：[feed](http://www.evanjones.ca/index.rss)
+- [✅ Google Open Source Blog](http://opensource.googleblog.com/)：[feed](http://google-opensource.blogspot.com/feeds/posts/default)
+- [✅ The Cloudflare Blog](https://blog.cloudflare.com/)：[feed](http://blog.cloudflare.com/rss.xml)
+- [✅ Stories by 1v1 lol unblocked games play 1v1 lol unblocked on Medium](https://medium.com/@steve.yegge?source=rss-45e3a3f3166------2)：[feed](https://medium.com/feed/@steve.yegge)
+- [✅ Enterprise Craftsmanship](https://enterprisecraftsmanship.com/)：[feed](https://enterprisecraftsmanship.com/index.xml)
+- [✅ Updates](https://developers.google.com/web/updates/?utm_source=feed&utm_medium=feed&utm_campaign=updates_feed)：[feed](https://developers.google.com/web/updates/rss.xml)
+- [✅ Blogold - Roy Osherove](https://osherove.com/blog/)：[feed](http://feeds.feedburner.com/Iserializable)
+
+Design
+------
+github
+------
+- [✅ biezhi's GitHub repositories](https://github.com/biezhi)：[feed](https://sail-rss-hub.herokuapp.com/github/repos/biezhi)
+
+Coder
+-----
+Youtube
+-------
+- [✅ Optimum Tech](https://www.youtube.com/channel/UCRYOj4DmyxhBVrdvbsUwmAA)：[feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCRYOj4DmyxhBVrdvbsUwmAA)
+- [✅ Techno Dad Life (uploads) on YouTube](https://www.youtube.com/playlist?list=UUX2Vhc0LIzSS9aMzhGFZ7PA)：[feed](https://www.youtube.com/playlist?list=UUX2Vhc0LIzSS9aMzhGFZ7PA)
+- [✅ Jango Y (uploads) on YouTube](https://www.youtube.com/playlist?list=UUUrJvRXzVBOYtHBs9fDnJEw)：[feed](https://www.youtube.com/playlist?list=UUUrJvRXzVBOYtHBs9fDnJEw)
+- [✅ EngFluent](https://www.youtube.com/channel/UCbW3Pcp-8Gz9QMKALqlY5nQ)：[feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCbW3Pcp-8Gz9QMKALqlY5nQ)
+- [✅ DesignCode (Webflow Free Course) on YouTube](https://www.youtube.com/playlist?list=PLDaHCLWmCcQKWhjHSJClUoldk4465gf6R)：[feed](https://www.youtube.com/playlist?list=PLDaHCLWmCcQKWhjHSJClUoldk4465gf6R)
+- [✅ Principles by Ray Dalio (Kissinger and Dalio on Chinese-American Relations) on YouTube](https://youtube.com/playlist?list=PLykIL_1_MFWlMnsHknYc4HUeRvb3ak7MZ)：[feed](https://www.youtube.com/playlist?list=PLykIL_1_MFWlMnsHknYc4HUeRvb3ak7MZ)
+
+Twitter
+-------
+技术
+--
+- [✅ CodingLabs](http://blog.codinglabs.org)：[feed](http://blog.codinglabs.org/rss.xml)
+- [✅ Martin Kleppmann's blog](http://martin.kleppmann.com/)：[feed](https://feeds.feedburner.com/martinkl)
+- [✅ Thoughtworks洞见](https://insights.thoughtworks.cn)：[feed](http://insights.thoughtworks.cn/feed/)
+- [❌ http://www.yinwang.org](http://www.yinwang.org/)：[feed](http://www.yinwang.org/atom.xml)
+- [✅ Rebornix, homepage and blog belongs to Peng Lv.](http://www.rebornix.com)：[feed](https://rebornix.com/atom)
+- [✅ "地瓜哥"博客网](https://www.diguage.com/)：[feed](https://www.diguage.com/index.xml)
+- [✅ 徐靖峰|个人博客](https://lexburner.github.io/)：[feed](https://www.cnkirito.moe/atom.xml)
+- [✅ Hawstein's Blog](http://hawstein.com/)：[feed](http://hawstein.com/atom.xml)
+- [✅ Antirez weblog](http://antirez.com)：[feed](http://antirez.com/rss)
+- [✅ iTimothy](https://xiaozhou.net/)：[feed](http://www.xiaozhou.net/atom.xml)
+- [✅ Skywind Inside](http://www.skywind.me/blog)：[feed](http://www.skywind.me/blog/feed)
+- [✅ 美团技术团队](https://tech.meituan.com/feed/)：[feed](https://tech.meituan.com/feed/)
+- [✅ 小胡子哥的个人网站](http://www.barretlee.com/)：[feed](http://barretlee.com/rss2.xml)
+- [✅ 「已注销」的知乎动态](https://www.zhihu.com/people/in-nek/activities)：[feed]( https://rsshub.app/zhihu/people/activities/in-nek)
+- [✅ Jack Liu博客-RSS订阅](http://www.jack-liu.com/)：[feed](http://www.jack-liu.com/rss.php)
+- [✅ 阮一峰的网络日志](http://www.ruanyifeng.com/blog/)：[feed](http://www.ruanyifeng.com/blog/atom.xml)
+- [✅ Joe’s Blog](https://hijiangtao.github.io/)：[feed](https://hijiangtao.github.io/feed.xml)
+- [❌ 代码家](https://daimajia.com)：[feed](http://blog.daimajia.com/feed/)
+- [❌ 谷歌开发者中文博客](https://googledeveloperschina.blogspot.com/)：[feed](http://feeds.googleblog.cn/GoogleDevelopersChineseLanguageBlog)
+- [✅ Coding Husky](https://ericfu.me/)：[feed](https://ericfu.me/atom.xml)
+- [✅ 云风的 BLOG](https://blog.codingnow.com/)：[feed](http://blog.codingnow.com/atom.xml)
+- [✅ 酷 壳 – CoolShell](https://coolshell.cn)：[feed](http://coolshell.cn/feed)
+- [✅ 面向信仰编程](https://draveness.me/)：[feed](https://draveness.me/feed.xml)
+- [✅ Jiajun的编程随想](https://jiajunhuang.com)：[feed](https://jiajunhuang.com/rss)
+- [❌ 橙小张的博客](https://blog.sailfishc.cn/)：[feed](https://blog.sailfishc.cn/index.xml)
+- [❌ 唐巧的博客](https://blog.devtang.com/)：[feed](http://www.devtang.com/atom.xml)
+
+English
+-------
+- [✅ EngFluent](https://engfluent.com)：[feed](https://engfluent.com/feed/)
+
+LeetCode
+--------
+- [✅ Hua Hua](https://www.youtube.com/channel/UC5xDNEcvb1vgw3lE21Ack2Q)：[feed](https://www.youtube.com/feeds/videos.xml?channel_id=UC5xDNEcvb1vgw3lE21Ack2Q)
+
+资讯头条
+----
+- [✅ 代码时间](http://codetimecn.com)：[feed](http://codetimecn.com/podcast.rss)
 
