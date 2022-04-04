@@ -10,8 +10,8 @@ on:
     branches: [ master ]
 
 env:
-  GITHUB_NAME: superleeyom
-  GITHUB_EMAIL: 635709492@qq.com
+  GITHUB_NAME: Sailfishc
+  GITHUB_EMAIL: sailfishcc@gmail.com
 
 jobs:
   build:
