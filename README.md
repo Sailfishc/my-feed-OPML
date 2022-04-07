@@ -5,7 +5,7 @@
 
 **分享我订阅的一些 Blog 和 Newsletter，每天自动同步我 Feedly 上的订阅源，✅ 代表能正常订阅，❌ 代表暂无法订阅（对于无法订阅的 feed，支持 Telegram Bot、Email、Server酱等推送工具提醒更新），**[opml 下载地址](https://github.com/Sailfishc/my-feed-OPML/releases/download/latest/feed.opml)
 
-**最新更新时间（北京时间）：2022-04-06 08:37:23**
+**最新更新时间（北京时间）：2022-04-07 08:37:32**
 
 ## 如何使用
 
@@ -53,7 +53,7 @@ Programming
 
 Tech
 ----
-- [❌ Praxis](https://medium.com/praxis-blog?source=rss----43a173dea401---4)：[feed](https://medium.com/feed/forte-labs)
+- [✅ Praxis](https://medium.com/praxis-blog?source=rss----43a173dea401---4)：[feed](https://medium.com/feed/forte-labs)
 - [✅ 王垠的博客 - 当然我在扯淡](https://www.yinwang.org)：[feed](https://rsshub.app/blogs/wangyin)
 - [✅ Martin Fowler](https://martinfowler.com)：[feed](http://martinfowler.com/bliki/bliki.atom)
 - [✅ null program](https://nullprogram.com)：[feed](http://nullprogram.com/feed/)
